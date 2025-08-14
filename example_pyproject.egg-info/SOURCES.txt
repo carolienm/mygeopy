@@ -1,0 +1,6 @@
+pyproject.toml
+example_pyproject.egg-info/PKG-INFO
+example_pyproject.egg-info/SOURCES.txt
+example_pyproject.egg-info/dependency_links.txt
+example_pyproject.egg-info/top_level.txt
+tests/test_triangle.py
