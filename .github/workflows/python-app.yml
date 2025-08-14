@@ -1,0 +1,7 @@
+- name: Install deps
+  run:  |
+    python -m pip install '.[tests]'
+
+- name: Run tests
+  run:  |
+    python -m pytest
